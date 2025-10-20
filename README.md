@@ -45,7 +45,7 @@ The main goal is to group countries into clusters based on their economic simila
 Clone the repository and install dependencies:
 
 ```
-git clone git@github.com:<your-username>/Clustering-models.git
+git clone git@github.com:HakSarukhanyan/Clustering-models.git
 cd Clustering-models
 pip install -r requirements.txt
 ```
@@ -55,10 +55,10 @@ pip install -r requirements.txt
 ##  Requirements
 
 ```
-pandas
-numpy
-matplotlib
-scikit-learn
+pandas==2.3.3
+numpy=2.3.3
+matplotlib=3.10.7
+scikit-learn=1.7.2
 ```
 
 Install:
