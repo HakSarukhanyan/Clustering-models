@@ -44,7 +44,7 @@ def plot_corr(df,col1,col2,method):
     correlation_col1_col2 = calculate_corr(df,col1,col2,method)
     return None
     
-def check_outlier(df,col):
+def show_stat(df,col):
     """
     Print sorted, max, min and mean of column, to find outliers easier
 
