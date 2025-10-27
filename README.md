@@ -15,7 +15,7 @@ The main goal is to group countries into clusters based on their economic simila
 │   ├── Country-data.csv       # Dataset
 │   ├── EDA.py                 # Exploratory Data Analysis
 │   ├── train.py               # Model training & clustering
-│   ├── functions.py           # Helper functions for plotting, correlation, etc.
+│   ├── utils.py           # Helper functions for plotting, correlation, etc.
 ├── README.md
 ```
 
